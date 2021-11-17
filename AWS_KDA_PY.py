@@ -3,7 +3,7 @@
 # Import 
 import boto3 
 import datetime 
-import ranom 
+import random 
 
 STREAM_NAME = 'input-stream' 
 
